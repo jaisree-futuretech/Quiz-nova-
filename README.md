@@ -1,7 +1,5 @@
 # QuizNova
 
-**Live Demo:** https://jaisree-futuretech.github.io/Quiz-nova-/
-
 A quiz application designed for students to test their knowledge through timed quizzes and receive instant results based on their performance.
 
 ## Features
